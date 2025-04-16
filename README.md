@@ -11,5 +11,7 @@ pip install -r requirements.txt   # Or create a virtual environment and then ins
 
 
 ## to Run
+
 cd scripts
+
 python extrude.py
